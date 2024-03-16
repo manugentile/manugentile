@@ -36,4 +36,8 @@ Senior Software Engineer @ OverIT
 			<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
 		</picture>
 	</a>
+    <a href="https://manugentile.github.io/" target="blank">
+        <img src="assets/globe-solid.svg" alt="Website" width="30px" />
+    </a>
+
 </p>
