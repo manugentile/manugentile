@@ -5,7 +5,7 @@ Hi 👋 I'm Manuel
 
 
 * 🌍 I'm based in Turin, 🇮🇹
-* 💼 SQL lover • Back-end dev • Senior Software Engineer @ OverIT
+* 💼 SQL lover • Back-end dev • Senior Data Architect @ ZeroB
 * 📖 Language enthusiast • Italian, English, Spanish, Portuguese, Chinese, Japanese, French
 * ⚡ Multipotential • Impro & Theater 🎭
 * 🦖 3x cats
